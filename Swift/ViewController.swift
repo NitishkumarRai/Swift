@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         
         //SORT
         
+        print("Test")
         
         let numbers:[Int]  = [5,8,9,11,7,6,9,12]
                              //b a
